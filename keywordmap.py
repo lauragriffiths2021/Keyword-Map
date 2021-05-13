@@ -8,7 +8,7 @@ import csv
 # import matplotlib as plt
 
 st.set_page_config(
-    page_title="Keyword Map", page_icon="✨", layout="wide"
+    page_title="Keyword Mapper", page_icon="✨", layout="wide"
 )
 
 c30, c31, c32 = st.beta_columns(3)
