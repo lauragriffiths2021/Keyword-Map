@@ -8,7 +8,7 @@ import csv
 # import matplotlib as plt
 
 st.set_page_config(
-    page_title="Keyword Mapper for BrightonSEO", page_icon="✨", layout="wide"
+    page_title="Keyword Map", page_icon="✨", layout="wide"
 )
 
 c30, c31, c32 = st.beta_columns(3)
@@ -24,7 +24,7 @@ with c32:
     st.text("")
     st.text("")
     st.markdown(
-        "###### Made in [![this is an image link](https://i.imgur.com/iIOA6kU.png)](https://www.streamlit.io/)&nbsp, with :heart: by [@DataChaz](https://twitter.com/DataChaz) &nbsp [![this is an image link](https://i.imgur.com/thJhzOO.png)](https://www.buymeacoffee.com/cwar05)"
+        "###### Made in [![this is an image link](https://i.imgur.com/iIOA6kU.png)](https://www.streamlit.io/)&nbsp"
     )
 
 st.write("")
